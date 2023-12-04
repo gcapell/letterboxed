@@ -1,2 +1,2 @@
 # letterboxed
-solver for letterboxed
+solver for letterboxed.
